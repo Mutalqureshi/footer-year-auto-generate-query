@@ -1,0 +1,1 @@
+# footer-year-auto-generate-query
