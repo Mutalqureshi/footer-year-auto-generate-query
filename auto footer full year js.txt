@@ -1,0 +1,3 @@
+<p id="footer-content" class="align-center glow">
+                <a href="http://jplist.com" title="">Copyright &copy; <script>document.write(new Date().getFullYear())</script> <b>jPList Software</b></a>
+            </p>
